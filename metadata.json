@@ -1,0 +1,5 @@
+{
+  "name": "Meu Treino",
+  "description": "Um aplicativo para controlar e acompanhar seus treinos. Crie grupos de treino, adicione exercícios e monitore suas séries, repetições e carga para cada um.",
+  "requestFramePermissions": []
+}
